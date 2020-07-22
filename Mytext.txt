@@ -2,3 +2,4 @@ I just created my 1st commit.
 git diff
 git diff 2
 if i add a file for checking direct commit
+making change to get displayed on github
