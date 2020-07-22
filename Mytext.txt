@@ -1,0 +1,3 @@
+I just created my 1st commit.
+git diff
+git diff 2
